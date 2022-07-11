@@ -1,4 +1,4 @@
-Online Translator written with React.
+Online Translator app on React.
 
 
 Designed with Google Translator API  (https://rapidapi.com/googlecloud/api/google-translate1). 
